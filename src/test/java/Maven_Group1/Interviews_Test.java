@@ -9,6 +9,8 @@ public class Interviews_Test {
 	public void Google()
 	{
 		System.out.println("Google Interview");
+		System.out.println("Git 1");
+		System.out.println("GIT 2");
 	}
 	
 	@Test
